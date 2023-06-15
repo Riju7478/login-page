@@ -1,0 +1,45 @@
+.container{
+    height:11vh;
+    width:100vw;
+    background-color: black;
+    margin: -15px -8px;
+}
+nav ul{
+    display: flex;
+list-style: none;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color:white
+}
+nav ul li{
+    margin: 23px 50px;
+}
+
+.search{
+    display: flex;
+    margin: -72px 1089px;
+    
+}
+.btn{
+    margin: 6px 60px;
+    padding:8px;
+    cursor: pointer;
+    background-color: blue;
+
+}
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+.btr{
+    margin: 6px 60px;
+    padding:16px;
+    cursor: pointer;
+    background-color: blue;
+}
+.btr a{
+    text-decoration: none;
+    color: white;
+}
